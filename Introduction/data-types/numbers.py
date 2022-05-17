@@ -30,7 +30,7 @@ print(float_num2, "is of type", type(float_num2))
 float_num3 = 3.33848232893326583982
 print(float_num3, "is of type", type(float_num3))
 
-# variables of complex type
+# variable of complex type
 complex_num = 6+9j
 print(complex_num, "is of type", type(complex_num))
 

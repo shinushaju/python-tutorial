@@ -18,6 +18,8 @@ complex(real,imag) - Converts real numbers to complex(real,imag) number
 ord() - Converts a character to integer
 hex() - Converts integer to hexadecimal string
 oct() - Converts integer to octal string
+
+Refer: https://www.geeksforgeeks.org/type-conversion-python/
 '''
 
 var1 = 10; # variable assigned with int value

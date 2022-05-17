@@ -1,5 +1,17 @@
 # Python Statements
 
+'''
+Instructions that a Python interpreter can execute are called statements.
+A Python script usually contains a sequence of statements.
+There are mainly four types of statements in Python:
+1. Print statements
+2. Assignment statements
+3. Conditional statements
+4. Looping statements
+
+Refer: https://www.geeksforgeeks.org/statement-indentation-and-comment-in-python/
+'''
+
 # assignment statement
 variable = 3
 print(variable)

@@ -3,6 +3,8 @@
 '''
 Tuple is an ordered sequence of items same as a list but written within parentheses.
 The only difference is that tuples are immutable. Tuples are more memory efficient and faster compared to Lists.
+
+Refer: https://www.geeksforgeeks.org/python-tuples/
 '''
 import sys
 

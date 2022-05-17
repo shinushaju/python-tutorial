@@ -10,6 +10,8 @@ input(prompt)
 
 The input() function first takes the input from the user and convert it into string.
 Type of the returned object always will be <type 'str'>. So, we need to explicitly convert it into the data type we need.
+
+Refer: https://www.geeksforgeeks.org/taking-input-in-python/
 '''
 
 # read an integer input from user and assign it to a variable

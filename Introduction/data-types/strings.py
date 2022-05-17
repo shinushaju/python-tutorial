@@ -1,11 +1,23 @@
 # Python Strings
 
+'''
+In Python, Strings are ordered sequence of Unicode characters.
+All Strings are objects of the str class in Python. 
+In Python, a single character is simply a string with a length of 1.
+Strings are wrapped inside single, double, or triple quotes.
+The len() function to retrieve the length of a string.
+Python Strings are immutable. Attempt to modify a String will result in error.
+
+Refer: https://www.geeksforgeeks.org/python-strings/
+'''
+
 # string created with single quotes.
 str1 = 'This is a string created with single quotes.'
 # string created with double quotes.
 str2 = "This is a string created with double quotes."
 # string created with triple quotes.
 str3 = '''This is a string created using triple quotes.'''
+
 # multi-line string created with triple double-quotes.
 str4 = """This is a string created using triple double-quotes."""
 # multi-line string created with triple quotes.

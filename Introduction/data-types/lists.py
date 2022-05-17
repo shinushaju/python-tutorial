@@ -5,6 +5,8 @@ List is an ordered sequence of items written within square brackets [ ]. Python 
 List in Python are ordered and have a definite count. The len() function returns the length of the List.
 Each element or value that is inside of a list is called an item. Index operator [ ] is used to access an item in a list.
 Slice operation [n:m] can be used to access a specific range of items from the list.
+
+Refer: https://www.geeksforgeeks.org/python-list/
 '''
 
 # create an empty list

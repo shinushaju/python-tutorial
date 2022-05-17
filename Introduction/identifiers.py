@@ -1,5 +1,11 @@
 # Python Identifiers
 
+'''
+An identifier is a name given to entities like class, functions, variables, etc.
+It is a user-defined name to represent the basic building blocks of Python.
+
+Refer: https://www.geeksforgeeks.org/python-keywords-and-identifiers/
+'''
 # the 'isidentifier()' checks the validity of an identifier name while keeping the keywords in mind.
 
 # identifier names can start with an underscore.

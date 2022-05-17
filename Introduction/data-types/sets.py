@@ -5,6 +5,8 @@ Set is an unordered collection of data type that is iterable and mutable.
 Set is defined by values separated by comma inside braces { } or using set() function. Items in a set are not ordered.
 Items in the Sets can be of different data types. Set cannot contain duplicate elements.
 Elements of sets are immutable. A Set cannot have immutable elements like a list or dictionary, as it is mutable.
+
+Refer: https://www.geeksforgeeks.org/python-sets/
 '''
 
 # create an empty Set

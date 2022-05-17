@@ -7,6 +7,8 @@ Key and value can be of any type. Dictionary keys are case sensitive, the same n
 Dictionaries can also be created with dict() function. This function takes a number of keywords arguments as input.
 A Dictionary item can be accessed using its key name inside square brackets.
 Generally used when we have a huge amount of data. Dictionaries are optimized for retrieving data.
+
+Refer: https://www.geeksforgeeks.org/python-dictionary/
 '''
 
 # an empty dictionary using {}
